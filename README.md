@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ignacio Cainelli</h1>
 <h3 align="center">Computer Science Student and Full Stack developer from Argentina</h3>
 
-- 🔭 I’m currently working on **AMRGestion**
+- 🔭 I’m currently working on **Adhoc**
 
-- 🌱 I’m currently learning **Django, PHP, Laravel**
+- 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **ignaciocainelli@outlook.com**
 
